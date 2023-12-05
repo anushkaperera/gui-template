@@ -1,1 +1,1 @@
-# gui-template
+A simple GUI template
